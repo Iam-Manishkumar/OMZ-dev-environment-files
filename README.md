@@ -1,4 +1,4 @@
-# My Dev Environment Files 🚀
+# My Dev Environment Files 🚀 - https://www.josean.com/posts/terminal-setup
 
 **IMPORTANT:** These are primarily meant for inspiration. I wouldn't just blindly use them. Proceed at your own risk!
 
